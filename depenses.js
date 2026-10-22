@@ -1,5 +1,4 @@
 const nom = 'Awa'; // Type : string
-const budget = 30000 // Type : number ; unité : FCFA
 const budget = 50000; // Type : number ; unité : FCFA
 const transportTexte = '12500'; // Type : string ; unité : FCFA
 const alimentationTexte = '18300'; // Type : string ; unité : FCFA
