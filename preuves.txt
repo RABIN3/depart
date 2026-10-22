@@ -6,10 +6,19 @@ Cas Awa avec budget 50000 :
 - Transport : 12500 FCFA
 - Alimentation : 18300 FCFA
 - Loisirs : 7500 FCFA
-
 - Total des dépenses : 38300 FCFA
 - Budget restant : 11700 FCFA
 - Budget respecté : Oui
+
 Variation budget 30000 :
 > node .\depenses.js
-> À compléter avec la sortie réelle : reste -8300, false
+> Rapport de dépenses pour Awa :
+- Budget Total : 30000 FCFA
+- Dépenses :
+- Transport : 12500 FCFA
+- Alimentation : 18300 FCFA
+- Loisirs : 7500 FCFA
+
+- Total des dépenses : 38300 FCFA
+- Budget restant : -8300 FCFA
+- Budget respecté : Non
