@@ -18,12 +18,7 @@ Variation budget 30000 :
 - Transport : 12500 FCFA
 - Alimentation : 18300 FCFA
 - Loisirs : 7500 FCFA
-
 - Total des dépenses : 38300 FCFA
 - Budget restant : -8300 FCFA
 - Budget respecté : Non
-
-- Total des dépenses : 38300 FCFA
-- Budget restant : 11700 FCFA
-- Budget respecté : Oui
 
